@@ -36,6 +36,14 @@ fraudster.tech est une plateforme destinée à dénoncer des formateurs en ligne
 - [ ] **Inscription/Connexion** (pour une phase ultérieure) :
   - [ ] Système d'authentification pour les utilisateurs souhaitant laisser des évaluations ou des signalements.
 
+  - [ ] **FAQs / Aide** : Pour répondre aux questions courantes sur la manière dont le site fonctionne, la manière de soumettre des signalements, et d'autres informations utiles pour les utilisateurs et les formateurs/influenceurs.
+
+- [ ] **Contact / Assistance** : Une page pour permettre aux utilisateurs de vous contacter directement pour de l'assistance, des suggestions, ou des feedbacks.
+
+- [ ] **Politique de Confidentialité et CGU (Conditions Générales d'Utilisation)** : Très important pour informer les utilisateurs sur l'utilisation de leurs données et les conditions d'utilisation du service.
+
+- [ ] **Page "À propos"** : Pour raconter l'histoire de votre projet, présenter l'équipe derrière, et expliquer votre vision et vos objectifs. Cela aide à construire une connexion avec les utilisateurs.
+
 ### Fonctionnalités Backend
 
 - [ ] **Gestion des Utilisateurs** :
@@ -73,20 +81,14 @@ fraudster.tech est une plateforme destinée à dénoncer des formateurs en ligne
 ## Avancées du Projet
 
 - [ ] Achat NDD
+- [ ] Réflexion charte graphique
+- [ ] Création d'un logo
 - [ ] Création du README
 - [ ] Création du projet
 - [ ] Mise en place de la structure du repo
 - [ ] Mise en place de la CI
 - [ ] Mise en place de la DB
 - [ ] Création de l'ensemble du front
-- [ ] Page d'accueil / Présentation : Une introduction à votre plateforme, sa mission, et comment elle fonctionne. Elle peut également mettre en avant des formateurs ou influenceurs populaires ou bien notés.
-- [ ] Page de Soumissions : Un formulaire permettant aux utilisateurs de soumettre des informations sur des formateurs/influenceurs, incluant les détails du signalement et des liens vers leurs profils sociaux/sites web.
-- [ ] Annuaire de Recherche : Une page permettant aux utilisateurs de rechercher et filtrer les formateurs/influenceurs par nom, spécialité, ou autres critères pertinents.
-- [ ] Page par Formateur : Détails sur chaque professionnel, incluant leur biographie, les cours/formations proposés, et les retours (notes et commentaires) des utilisateurs.
-- [ ] FAQs / Aide : Pour répondre aux questions courantes sur la manière dont le site fonctionne, la manière de soumettre des signalements, et d'autres informations utiles pour les utilisateurs et les formateurs/influenceurs.
-- [ ] Contact / Assistance : Une page pour permettre aux utilisateurs de vous contacter directement pour de l'assistance, des suggestions, ou des feedbacks.
-- [ ] Politique de Confidentialité et CGU (Conditions Générales d'Utilisation) : Très important pour informer les utilisateurs sur l'utilisation de leurs données et les conditions d'utilisation du service.
-- [ ] Page "À propos" : Pour raconter l'histoire de votre projet, présenter l'équipe derrière, et expliquer votre vision et vos objectifs. Cela aide à construire une connexion avec les utilisateurs.
 - [ ] Implémentation des fonctionnalités back-end
 - [ ] Sécurité et tests
 - [ ] Déploiement
