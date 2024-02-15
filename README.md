@@ -82,7 +82,7 @@ fraudster.tech est une plateforme destinée à dénoncer des formateurs en ligne
 
 - [x] Achat NDD
 - [ ] Réflexion charte graphique
-- [ ] Création d'un logo
+- [x] Création d'un logo
 - [ ] Création du README
 - [x] Création du projet
 - [ ] Mise en place de la structure du repo
