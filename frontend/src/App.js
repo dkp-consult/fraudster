@@ -1,7 +1,7 @@
 import './App.css';
-import ConstructionPage from './pages/ConstructionPage';
 import Navbar from './components/Navbar';
 import HeroSection from './components/HeroSection';
+import Presentation from './components/Presentation';
 
 /* Testing connexion front 2 back */
 
@@ -10,7 +10,7 @@ function App() {
     <div>
       <Navbar />
       <HeroSection />
-      <ConstructionPage />
+      <Presentation />
     </div>
   )
 }
