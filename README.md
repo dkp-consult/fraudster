@@ -1,14 +1,22 @@
-# fraudster.tech
+# [fraudster.tech](https://fraudster.tech/)
+
+Ce projet communautaire et collaboratif aura pour objectif de signaler les formateurs, vendeur de formation, etc. que l'on pourrait considérer comme 'frauduleux' que ce soit pas la vente de contenu open-source, le mensonge concernant la réussite éventuelle (photos d'internet, etc), ceux qui fonctione par réseaux afin de simuler une réussite en groupe, etc. 
+
+Ensuite, si le POC fonctionne, il est possible que la plateforme permettent de signaler des fraudes et arnaques liées à d'autres domaine. 
+
+## Disclaimer
+
+[fraudster.tech](https://fraudster.tech/) n'a aucune vocation à donner une note à différent formateur que ce soit sur la qualité de leur formation, de leurs contenus ou autre. L'idée sous-jacente est vraiment de faire une annuaire de signalement des arnaques et malhonneteté dans la vente de formation. 
 
 ## Objectif
 
-fraudster.tech est une plateforme destinée à dénoncer des formateurs en ligne malhonnêtes, vendant de la poudre aux yeux, et autres pratiques douteuses. L'objectif est de créer une communauté informée, capable de prendre des décisions éclairées sur les formations en ligne auxquelles elle choisit de participer.
+[fraudster.tech](https://fraudster.tech/) est une plateforme destinée à dénoncer des formateurs en ligne malhonnêtes, vendant de la poudre aux yeux, et autres pratiques douteuses. L'objectif est de créer une communauté informée, capable de prendre des décisions éclairées sur les formations en ligne auxquelles elle choisit de participer.
 
 ## Technologies et Outils Utilisés
 
-- **Front-end** : React avec Tailwind CSS pour une interface utilisateur moderne et responsive.
-- **Back-end** : Node.js avec le framework Express.js, fournissant une architecture solide pour les services web.
-- **Base de données** : MongoDB avec Mongoose, offrant une solution flexible et puissante pour gérer les données.
+- **Front-end** : React avec Tailwind CSS pour une interface utilisateur moderne et responsive. Le front sera dans un premier temps hébergé sur Vercel afin de limiter les coûts du POC. 
+- **Back-end** : Node.js avec le framework Express.js, fournissant une architecture solide pour les services web. Je pense utiliser Heroku pour héberger le back, mais n'ayant aucune expérience avec le backend, cela pourra évoluer et sera mis à jour dans le readme. 
+- **Base de données** : MongoDB avec Mongoose, offrant une solution flexible et puissante pour gérer les données. Ici, je ferais appel également à un service online à moindre coûts, je ne dispose pas des connaissances pour mettre tout cela en place seul. 
 
 ## Fonctionnalités
 
@@ -30,7 +38,7 @@ fraudster.tech est une plateforme destinée à dénoncer des formateurs en ligne
   - [ ] Formulaire permettant aux utilisateurs de soumettre des signalements concernant les formateurs.
   - [ ] Choix du type de problème rencontré et possibilité d'ajouter une description.
 
-- [ ] **Ajout d'Évaluations et Commentaires** :
+- [ ] **Ajout d'Évaluations et Commentaires** (facultatif) :
   - [ ] Fonctionnalité permettant aux utilisateurs de laisser une évaluation et un commentaire sur les profils des formateurs.
 
 - [ ] **Inscription/Connexion** (pour une phase ultérieure) :
@@ -46,7 +54,7 @@ fraudster.tech est une plateforme destinée à dénoncer des formateurs en ligne
 
 ### Fonctionnalités Backend
 
-- [ ] **Gestion des Utilisateurs** :
+- [ ] **Gestion des Utilisateurs** (second temps) :
   - [ ] Inscription, connexion, gestion des profils utilisateurs (pour une phase ultérieure).
 
 - [ ] **API de Recherche et Filtres** :
@@ -58,7 +66,7 @@ fraudster.tech est une plateforme destinée à dénoncer des formateurs en ligne
 - [ ] **Gestion des Signalements** :
   - [ ] API pour la soumission et le stockage des signalements par les utilisateurs.
 
-- [ ] **Gestion des Évaluations et Commentaires** :
+- [ ] **Gestion des Évaluations et Commentaires** (second temps) :
   - [ ] API permettant aux utilisateurs de soumettre des évaluations et commentaires.
 
 - [ ] **Sécurité** :
@@ -83,7 +91,7 @@ fraudster.tech est une plateforme destinée à dénoncer des formateurs en ligne
 - [x] Achat NDD
 - [ ] Réflexion charte graphique
 - [x] Création d'un logo
-- [ ] Création du README
+- [ ] Création du README - WIP
 - [x] Création du projet
 - [ ] Mise en place de la structure du repo
 - [ ] Mise en place de la CI
@@ -109,4 +117,6 @@ Assurez-vous de respecter les conventions de code et les tests déjà en place. 
 
 ## Licence
 
-Ce projet est sous licence MIT. Cette licence permet une grande liberté d'utilisation tout en protégeant les droits d'auteur. Elle est adaptée à un projet open-source visant à la formation et à l'aide à la communauté. Pour plus d'informations, veuillez consulter le fichier [LICENSE](LICENSE) inclus.
+Ce projet est open-source et communautaire, des renseignements seront pris afin d'utiliser la licence qui convient le mieux. 
+
+## Contact
